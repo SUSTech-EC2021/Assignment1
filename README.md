@@ -13,6 +13,8 @@ The mark you get in this assignment depends on the your algorithm's performance 
 **Project**
 * The folder named ***benchmark*** contains the benchmark functions to be optimised. You shouldn't edit it.
 * The folder named ***utils*** contains some useful functions. You don't need to edit it.
+* The folder named ***result*** contains the solution files of your algorithm code on each benchmark function for each run. After each run, your solution will be automatic stored as file in this folder. 
+* The folder named ***res*** contains temporary files. You shouldn't edit it.
 * The Matlab file named ***configurations.m*** determines the functions to be tested and optimisation budget. You shouldn't edit it.
 * The Matlab file named ***testEA.m*** is used to test your EA. You shouldn't edit it.
 * The folder named ***optimisers*** contains your ***EA***.
