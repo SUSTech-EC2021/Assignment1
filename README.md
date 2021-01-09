@@ -4,7 +4,7 @@
 The main task of this assignment is applying Evolutionary Algorithms (EAs) to optimising several bound constrained single objective benchmark functions. This assignment has 100 marks, which will take 20\% in your final mark of this course. 
 The mark you get in this assignment depends on the your algorithm's performance on the benchmark functions, the quality of your report, program and presentation.
 
-## Programming aspects
+## Program (25 marks)
 **Programming language: Matlab**
 * Free download: http://lib.sustc.edu.cn/UserFiles/download/1489545490853.docx?locale=zh_CN
 * Tutorial: https://ww2.mathworks.cn/support/learn-with-matlab-tutorials.html
@@ -38,7 +38,7 @@ The expected structure is given below.
 
 **Remark:** Please be careful with the grammar, spelling and format.
 
-## Presentation (50 marks)
+## Presentation (25 marks)
 Examples of evaluation criteria are, but not limited to:
 * Description of the tested functions: What are they? What are their characteristics? Why they are challenging? ...
 * Description of the algorithm: Solution representation, different operators, ...
