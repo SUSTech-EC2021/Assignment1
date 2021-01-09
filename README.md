@@ -28,7 +28,7 @@ The mark you get in this assignment depends on the your algorithm's performance 
 * If you find any bug, please contact the Teaching Assistant.
 
 ## Report (25 marks)
-A report (in pdf format) must be submitted, named as ***report-{studentnumber}.pdf*** (eg., ***report-12345678.pdf***). MS Word and LaTeX templates can be found at https://www.ieee.org/conferences/publishing/templates.html. You should use these templates.
+A report (in pdf format) must be submitted, named as ***assignment1-report-{studentnumber}.pdf*** (eg., ***assignment1-report-12345678.pdf***). MS Word and LaTeX templates can be found at https://www.ieee.org/conferences/publishing/templates.html. You should use these templates.
 The expected structure is given below.
 * Abstract
 * Introduction
@@ -38,4 +38,30 @@ The expected structure is given below.
 
 **Remark:** Please be careful with the grammar, spelling and format.
 
+## Presentation (50 marks)
+Examples of evaluation criteria are, but not limited to:
+* Description of the tested functions: What are they? What are their characteristics? Why they are challenging? ...
+* Description of the algorithm: Solution representation, different operators, ...
+* Results and discussion: Analysis of results, statistical test, convergence curves, performance comparison, ...
+* Presentation of the slides: Format, typeset, spelling, grammar, ...
+* Language and clearness
 
+## Submission
+### What to submit
+Report and program: Each student should submit one single file for report and program, repectively.
+* A Matlab file named as *EA.m* using the given template and respecting the required function declaration explained previously. 
+* A pdf file named as ***assignment1-report-{studentnumber}.pdf***. Example: ***assignment1-report-12345678.pdf***. 
+* Each student should submit one single file for her/his presentation. The submitted file can be of one of the following formats: ***.ppt***, ***.pptx***, ***.pdf***. The presentation should be named as ***assignment1-presentation-{studentnumber}.pdf***. Example: ***assignment1-presentation-12345678.pdf***.
+### Where to submit
+Upload your works via \emph{BlackBoard}.
+
+### Deadline
+* Report, program, presentation submission: 22:59 (Beijing time) March 14, 2021.
+* Individual presentation: March 19, 2021 (The order will be decided in the morning).
+
+## Prohibition
+You will get 0 as score for this assignment if any of the following cases happens:
+* You use other programming languages.
+* You don't respect the naming policy of files.
+* The report/program submission is delayed for 3 days (72 hours) or more.
+* Plagiarism.
