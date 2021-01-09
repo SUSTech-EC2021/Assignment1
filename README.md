@@ -53,7 +53,7 @@ Report and program: Each student should submit one single file for report and pr
 * A pdf file named as ***assignment1-report-{studentnumber}.pdf***. Example: ***assignment1-report-12345678.pdf***. 
 * Each student should submit one single file for her/his presentation. The submitted file can be of one of the following formats: ***.ppt***, ***.pptx***, ***.pdf***. The presentation should be named as ***assignment1-presentation-{studentnumber}.pdf***. Example: ***assignment1-presentation-12345678.pdf***.
 ### Where to submit
-Upload your works via \emph{BlackBoard}.
+Upload your works via **BlackBoard**.
 
 ### Deadline
 * Report, program, presentation submission: 22:59 (Beijing time) March 14, 2021.
