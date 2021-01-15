@@ -1,4 +1,4 @@
-# Assignment1
+# Assignment 1: Bound Constrained Single Objective Numerical Optimization
 
 ## Overview
 The main task of this assignment is applying Evolutionary Algorithms (EAs) to optimising several bound constrained single objective benchmark functions. This assignment has 100 marks, which will take 20\% in your final mark of this course. 
