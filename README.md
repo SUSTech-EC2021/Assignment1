@@ -29,7 +29,7 @@ The mark you get in this assignment depends on your algorithm's performance on t
 * You are not encouraged to add new files or folders. ***EA.m*** is the only file that you will submit. Feel free to define multiple functions inside the ***EA.m*** file.
 * If you find any bug, please contact the Teaching Assistant (Jiyuan Pei: 12032916@mail.sustech.edu.cn).
 
-## Report (25 marks)
+## Report (50 marks)
 A report (in pdf format) must be submitted, named as ***assignment1-report-{studentnumber}.pdf*** (eg., ***assignment1-report-12345678.pdf***). MS Word and LaTeX templates can be found at https://www.ieee.org/conferences/publishing/templates.html. You should use these templates.
 The expected structure is given below.
 * Abstract
@@ -58,8 +58,9 @@ Report, program and presentation slides: Each student should submit one single f
 Upload your works via **BlackBoard**.
 
 ### Important dates
-* Report, program, presentation submission deadline: 22:59 (Beijing time) March 7, 2021.
+* **First** report and program submission deadline: 22:59 (Beijing time) March 7, 2021.
 * Presentation submission deadline: 22:59 (Beijing time) March 11, 2021.
+* **Final** report and program submission deadline: 22:59 (Beijing time) March 14, 2021.
 * Individual presentation: March 12, 2021 (The presentation order will be decided in the morning).
 
 ## Prohibition
