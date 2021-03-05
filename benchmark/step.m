@@ -17,5 +17,5 @@ end
 % if max(x)>100
 %     error('Error. \n At least one element exceeds the upper bound.')
 % end
-y=sum(abs(x+0.5).^2);
+y=sum(floor(x+0.5).^2);
 end
