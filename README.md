@@ -41,12 +41,14 @@ The expected structure is given below.
 **Remark:** Please write in **Chinese** and be careful with the format.
 
 ## Presentation (25 marks)
+5 minutes' presentation, followed by questions. No introduction talk. 
+
 Examples of evaluation criteria are, but not limited to:
-* Description of the tested functions: What are they? What are their characteristics? Why they are challenging? ...
-* Description of the algorithm: Solution representation, different operators, ...
-* Results and discussion: Analysis of results, statistical test, convergence curves, performance comparison, ...
-* Presentation of the slides: Format, typeset, spelling, grammar, ...
-* Language and clearness, ...
+* Description of your research problem.
+* Description of your approach/algorithm.
+* Results and discussion. What's your concluison? Is your research question answered?
+* Presentation of the slides: format, typeset, spelling, grammar.
+* Language and clearness.
 
 ## Submission
 ### What to submit
